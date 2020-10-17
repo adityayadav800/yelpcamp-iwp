@@ -1,0 +1,28 @@
+.html body {
+    height : 100%;
+}
+
+.thumbnail img {
+    width : 100%;
+}
+
+.thumbnail {
+    padding : 0;
+}
+
+#campground-row {
+    display : flex;
+    flex-wrap: wrap;
+}
+
+#form-container {
+    width : 30%;
+}
+
+.btn.btn-lg.btn-primary {
+    margin-bottom : 0.5em;
+}
+
+.delete-form {
+    display : inline;
+}
